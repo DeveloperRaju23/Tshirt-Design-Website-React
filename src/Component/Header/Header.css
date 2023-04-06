@@ -1,0 +1,12 @@
+nav{
+    margin: auto;
+    background-color: azure;
+    text-align: center;
+    padding: 20px 0;
+}
+nav a{
+    font-size: 24px;
+    margin-right: 20px;
+    text-decoration: none;
+  
+}
